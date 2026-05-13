@@ -2,14 +2,14 @@
 type: task
 id: DV-002
 title: Подключить dv-project как git submodule
-status: doing
+status: done
 priority: P0
 effort: XS
 epic: Product Vision Docs
 sprint:
 assignee: max
 created: 2026-05-10
-due:
+due: 2026-05-13
 tags:
   - git
   - opencode

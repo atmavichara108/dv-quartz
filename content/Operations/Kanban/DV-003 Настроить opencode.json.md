@@ -2,19 +2,20 @@
 type: task
 id: DV-003
 title: Настроить opencode.json
-status: doing
+status: done
 priority: P0
 effort: S
 epic: Product Vision Docs
 sprint:
 assignee: max
 created: 2026-05-10
-due:
+due: 2026-05-13
 tags:
   - opencode
   - config
 file: DV/Operations/Kanban/DV-002 Подключить dv-project как git submodule.md
 ---
+
 
 ## Цель
 Подключить продуктовый контекст из docs/ и context/ как instructions для всех агентов opencode. Прописать базовые permissions.
