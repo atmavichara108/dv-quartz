@@ -1,17 +1,15 @@
 ---
 title: Kanban Board
-date: 2026-05-13
+date: 2026-05-14
 ---
 
 # Kanban Board
 
-> Последнее обновление: 2026-05-13 21:50
+> Последнее обновление: 2026-05-14 22:36
 
-## 🔵 Doing (1)
+## 🔵 Doing (0)
 
-| ID | Задача | Приоритет | Эпик | Объём |
-|-----|--------|-----------|------|-------|
-| DV-004 | [[DV-004 Создать промпты агентов opencode|Создать промпты агентов opencode (plan, build, reviewer, researcher)]] | 🔥 | Product Vision Docs | S |
+*Пусто*
 
 ## 🟠 Ready (3)
 
@@ -48,10 +46,11 @@ date: 2026-05-13
 | DV-027 | [[DV-027 Nginx + Let's Encrypt для всех трёх доменов|Nginx reverse proxy + SSL для re-search.wiki, www, meet]] | 🔥 | Self-hosted Infra | S |
 | DV-029 | [[DV-029 Infra Runbook|"Создать docs/infra-runbook.md — операционный мануал по инфре"]] | ⭐ | "Self-hosted Infra" | S |
 
-## 🟢 Done (3)
+## 🟢 Done (4)
 
 | ID | Задача | Приоритет | Эпик | Объём |
 |-----|--------|-----------|------|-------|
 | DV-001 | [[DV-001 Создать product-vision и архитектурные документы|Создать product-vision и архитектурные документы]] | 🔥 | Product Vision Docs | S |
 | DV-002 | [[DV/Operations/Kanban/DV-003 Настроить opencode.json|Подключить dv-project как git submodule]] | 🔥 | Product Vision Docs | XS |
 | DV-003 | [[DV/Operations/Kanban/DV-002 Подключить dv-project как git submodule|Настроить opencode.json]] | 🔥 | Product Vision Docs | S |
+| DV-004 | [[DV-004 Создать промпты агентов opencode|Создать промпты агентов opencode (plan, build, reviewer, researcher)]] | 🔥 | Product Vision Docs | S |
