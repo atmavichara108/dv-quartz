@@ -15,6 +15,7 @@ tags:
 due: 2026-05-16
 ---
 
+
 ## Goal
 Зарегистрировать `re-search.wiki` на Namecheap, оплата USDT TRC-20 через TRONlink → BitPay.
 

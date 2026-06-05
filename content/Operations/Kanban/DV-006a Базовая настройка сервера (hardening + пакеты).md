@@ -2,7 +2,7 @@
 type: task
 id: DV-006a
 title: "Базовая настройка сервера: SSH ключи, ufw, пакеты"
-status: ready
+status: doing
 priority: P0
 effort: S
 epic: Self-hosted Infra
@@ -15,7 +15,8 @@ tags:
 ---
 
 ## Goal
-Подготовить Ubuntu 22.04 к продакшен-нагрузке: SSH-ключи, файрвол, базовые пакеты, swap.
+Пол: Ubuntu 24.04 LTS (вместо 22.04)
+Подготовить Ubuntu 24.04 LTS к продакшен-нагрузке: SSH-ключи, файрвол, базовые пакеты, swap.
 
 ## Definition of Done
 - SSH вход по паролю отключён, root-логин ограничен
