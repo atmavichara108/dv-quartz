@@ -33,3 +33,4 @@ due: 2026-06-08
 ## Notes
 - HTTP/2 включён
 - Проверить `ssl_protocols TLSv1.2 TLSv1.3`
+

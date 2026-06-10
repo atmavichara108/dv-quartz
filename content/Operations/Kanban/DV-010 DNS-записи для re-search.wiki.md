@@ -15,6 +15,7 @@ tags:
 depends_on:
   - DV-005
   - DV-006
+due: 2026-06-10
 ---
 
 ## Goal
