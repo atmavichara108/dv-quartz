@@ -9,14 +9,14 @@ title: DV Project
 
 ## Разделы
 
-- [[Kanban Board]] — Текущие задачи
+- [[Operations/Kanban Board]] — Текущие задачи
 
-- [[DV Foundation]] — Идеология и основа
-- [[Cells Network]] — Сеть ячеек
-- [[Cell Anatomy]] — Анатомия ячейки
-- [[Roles]] — Роли в ячейках
-- [[S3 Integration]] — Интеграция Социократии 3.0 (в работе)
-- [[Site Architecture]] — Архитектура DV Hub (в работе)
-- [[Content Plan]] — Контент (в работе)
-- [[Research Workflow]] — Исследования
-- [[Roadmap]] — Дорожная карта (в работе)
+- [[Movement/DV Foundation]] — Идеология и основа
+- [[Structure/Cells Network]] — Сеть ячеек
+- [[Structure/Cell Anatomy]] — Анатомия ячейки
+- [[Structure/Roles]] — Роли в ячейках
+- [[Structure/S3 Integration]] — Интеграция Социократии 3.0 (в работе)
+- [[Site/Site Architecture]] — Архитектура DV Hub (в работе)
+- [[Content/Content Plan]] — Контент (в работе)
+- [[Research/Research Workflow]] — Исследования
+- Дорожная карта — в разработке (материал ещё не перенесён из dv-hub)
