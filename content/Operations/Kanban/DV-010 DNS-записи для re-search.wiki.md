@@ -30,3 +30,4 @@ due: 2026-06-21
 
 ## Notes
 - Записи для Resend (SPF/DKIM/DMARC) — в отдельной задаче DV-026
+
